@@ -1,0 +1,1 @@
+git+https://github.com/munich-quantum-toolkit/qecc.git
